@@ -3,7 +3,7 @@ title        = "My Blog"
 languageCode = "ja-JP"
 theme        = "hello-friend-ng"
 #canonifyURLs = true
-#publishDir = "docs"
+publishDir = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
