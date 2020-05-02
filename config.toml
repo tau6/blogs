@@ -2,7 +2,7 @@ baseurl      = "https://tau6.github.io/blogs"
 title        = "My Blog"
 languageCode = "ja-JP"
 theme        = "hello-friend-ng"
-canonifyurls = true
+canonifyURLs = false
 publishDir = "docs"
 
 [params]
