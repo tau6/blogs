@@ -2,8 +2,8 @@ baseurl      = "https://tau6.github.io/blogs"
 title        = "My Blog"
 languageCode = "ja-JP"
 theme        = "hello-friend-ng"
-canonifyURLs = true
-publishDir = "docs"
+#canonifyURLs = true
+#publishDir = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
