@@ -43,7 +43,8 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "tau6"
-      logoHomeLink = "/"
+      logoHomeLink = "/blogs"
+
     # or
     #
     # path = "/img/your-example-logo.svg"
