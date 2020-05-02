@@ -2,7 +2,7 @@ baseurl      = "https://tau6.github.io/blogs"
 title        = "My Blog"
 languageCode = "ja-JP"
 theme        = "hello-friend-ng"
-canonifyURLs = true
+canonifyURLs = false
 publishDir = "docs"
 
 [params]
@@ -54,12 +54,12 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "/blogs/posts"
     weight = 2
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
+    url = "/blogs/about"
     weight = 1
 
