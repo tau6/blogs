@@ -52,14 +52,14 @@ publishDir = "docs"
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/blogs/posts"
-    weight = 2
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    weight = 1
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/blogs/about"
-    weight = 1
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts"
+    weight = 2
 
