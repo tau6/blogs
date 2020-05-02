@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on tau6 Blogs</title>
+    <link>http://tau6.github.io/blogs/tags/</link>
+    <description>Recent content in Tags on tau6 Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>Copyright; 2020, tau6 All rights reserved.</copyright>
+    <lastBuildDate>Sat, 02 May 2020 11:08:09 +0900</lastBuildDate>
+    
+	<atom:link href="http://tau6.github.io/blogs/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>untagged</title>
+      <link>http://tau6.github.io/blogs/tags/untagged/</link>
+      <pubDate>Sat, 02 May 2020 11:08:09 +0900</pubDate>
+      
+      <guid>http://tau6.github.io/blogs/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
