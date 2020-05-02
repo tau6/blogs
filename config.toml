@@ -2,6 +2,7 @@ baseurl      = "https://tau6.github.io/blogs"
 title        = "My Blog"
 languageCode = "ja-JP"
 theme        = "hello-friend-ng"
+publishDir = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -24,7 +25,7 @@ theme        = "hello-friend-ng"
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [taxonomies]
     category = "blog"
@@ -40,7 +41,7 @@ theme        = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "tau6"
       logoHomeLink = "/"
     # or
     #
